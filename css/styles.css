@@ -1,0 +1,70 @@
+* {
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+}
+
+.my-fieldset-design {
+    border: 1.5px lightgray solid;
+    width: 40%;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 1px;
+}
+
+#forgot-password {
+    display: inside flex;
+    justify-content: right;
+    font-size: 2vh;
+    float: right;
+}
+
+label {
+    font-size: 2vh;
+}
+
+button {
+/*     width: 100%; */
+    font-size: 2vh;
+    box-shadow: 1px 2px darkgrey;
+}
+
+.placeholder-image {
+    display: block;
+    margin: 5px auto;
+    position: relative;
+}
+
+.activate-account-amazon {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 39%;
+    height: 35px;
+    background-color: #e7e7e7;
+    color: black;
+    font-size: 2.5vh;
+}
+
+.new-to-amazon {
+    display: block;
+    margin: 0 auto;
+}
+
+.footer1 {
+    text-align: center;
+    justify-content: space-between;
+    font-size: 1.5vh;
+    display: inline;
+    margin: 10px 25px 10px 0;
+}
+
+.footer-legal {
+    list-style: none;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.copyright-section {
+    font-size: 1.5vh;
+    text-align: center;
+}
