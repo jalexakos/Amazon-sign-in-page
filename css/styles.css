@@ -39,10 +39,10 @@ button {
     margin: 0 auto;
     text-align: center;
     width: 39%;
-    height: 35px;
+    height: 12%;
     background-color: #e7e7e7;
     color: black;
-    font-size: 2.5vh;
+    font-size: 1.25vw;
 }
 
 .new-to-amazon {
